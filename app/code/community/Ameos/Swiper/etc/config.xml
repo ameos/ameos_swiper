@@ -41,6 +41,15 @@
             </ameos_swiper_setup>
         </resources>
     </global>
+    <frontend>
+        <layout>
+            <updates>
+                <ameos_swiper>
+                    <file>ameos_swiper.xml</file>
+                </ameos_swiper>
+            </updates>
+        </layout>
+    </frontend>
     <adminhtml>
         <layout>
             <updates>
