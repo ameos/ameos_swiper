@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<config>
+	<menu>
+		<ameos_swiper>
+			<title>Sliders</title>
+			<action>ameos_swiper/adminhtml_group</action>
+			<sort_order>10000</sort_order>
+		</ameos_swiper>
+	</menu>
+	<acl>
+		<resources>
+			<admin>
+				<children>	
+					<ameos_swiper>
+						<title>Sliders</title>
+						<sort_order>1000</sort_order>
+					</ameos_swiper>
+				</children>
+			</admin>
+		</resources>
+	</acl>
+</config>

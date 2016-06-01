@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Ameos_Swiper>
+			<active>true</active>
+			<codePool>local</codePool>
+		</Ameos_Swiper>
+	</modules>
+</config>
